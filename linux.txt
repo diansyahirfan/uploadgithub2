@@ -1,0 +1,7 @@
+Belajar text editor Menggunakan vim
+bersama studidevsecops
+hari Rabu 
+Menggunakan text editor v1
+Menggunakan text editor v2
+Menggunakan text editor v3
+  
